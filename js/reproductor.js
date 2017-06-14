@@ -1,3 +1,5 @@
+//reproductor.js (versión 1 )
+
 var datosCanciones=[
    {
    	titulo: "Tocado y hundido",
